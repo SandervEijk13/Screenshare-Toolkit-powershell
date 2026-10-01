@@ -39,6 +39,3 @@ This project is intended for legitimate system administration, troubleshooting, 
 
 Only use this toolkit on systems you own or have explicit permission to inspect.
 
-## License
-
-See the repository for license information.
